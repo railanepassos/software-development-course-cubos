@@ -22,7 +22,6 @@ Para isso, a fórmula é a seguinte:
 
 ![P = Po * x ^\frac{t}{7}](https://i.imgur.com/xT7rwGh.png)
 
-
 P será a quantidade de pessoas infectadas após decorrido o tempo t
 
 ---
